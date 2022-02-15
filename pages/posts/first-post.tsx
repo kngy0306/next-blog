@@ -6,6 +6,7 @@ import Script from "next/script";
 export default function FirstPost() {
   return (
     <Layout>
+      <>
       <Head>
         <title>First Post</title>
       </Head>
@@ -16,6 +17,7 @@ export default function FirstPost() {
           <a>Back to home</a>
         </Link>
       </h2>
+      </>
     </Layout>
   );
 }
