@@ -12,3 +12,6 @@ https://dev.classmethod.jp/articles/introduction-to-nextjs/
 ## 日本語翻訳プロジェクト
 https://nextjs-ja-translation-docs.vercel.app/docs/getting-started
 
+### 現在位置
+
+https://nextjs.org/learn/basics/data-fetching/pre-rendering
